@@ -11,23 +11,8 @@ const theme = createTheme({
       dark: '#002884',
       contrastText: '#fff',
     },
-    secondary: {
-      light: '#ff7961',
-      main: '#f44336',
-      dark: '#ba000d',
-      contrastText: '#000',
-    },
-    third: {
-      light: '#5fba7d',
-      main: '#f44336',
-      dark: '#ba000d',
-      contrastText: '#000',
-    },
   },
-
 })
-
-
 
 export default function App() {
     return (
